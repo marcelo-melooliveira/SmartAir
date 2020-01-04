@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048282804190",
+    "firebase_url": "https://smart-air-5a097.firebaseio.com",
+    "project_id": "smart-air-5a097",
+    "storage_bucket": "smart-air-5a097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048282804190:android:0d0ac8738f54f58c4c374f",
+        "android_client_info": {
+          "package_name": "com.rnlottie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048282804190-33i6ohkfntc0djg5l11hgqlk2frfb7gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD023BuEI7gPNH-nCUEGuzTuF5bYDE6dpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048282804190-33i6ohkfntc0djg5l11hgqlk2frfb7gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
